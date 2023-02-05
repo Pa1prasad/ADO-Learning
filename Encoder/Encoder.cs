@@ -125,6 +125,7 @@ namespace Encoder
             }
             
             return message;
+
         }
         
     }
